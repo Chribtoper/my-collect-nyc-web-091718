@@ -5,5 +5,5 @@ def my_collect(arg)
 yield (arg[i].split(" ").first)
 i += 1
 end
-arr
+arg
 end
