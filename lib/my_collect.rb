@@ -7,5 +7,3 @@ i += 1
 end
 arr
 end
-
-my_collect(arg[i].split(" ").first
